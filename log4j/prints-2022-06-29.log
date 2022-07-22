@@ -1,0 +1,79 @@
+18:08:32.378[main]DEBUGio.netty.util.internal.PlatformDependent0-java.nio.DirectByteBuffer.<init>(long, int): unavailable
+18:08:32.407[main]DEBUGio.netty.util.internal.PlatformDependent-sun.misc.Unsafe: available
+18:08:32.409[main]DEBUGio.netty.util.internal.PlatformDependent-maxDirectMemory: 1061158912 bytes (maybe)
+18:08:32.410[main]DEBUGio.netty.util.internal.PlatformDependent--Dio.netty.tmpdir: C:\Users\ADMIN\AppData\Local\Temp (java.io.tmpdir)
+18:08:32.411[main]DEBUGio.netty.util.internal.PlatformDependent--Dio.netty.bitMode: 64 (sun.arch.data.model)
+18:08:32.411[main]DEBUGio.netty.util.internal.PlatformDependent-Platform: Windows
+18:08:32.416[main]DEBUGio.netty.util.internal.PlatformDependent--Dio.netty.maxDirectMemory: -1 bytes
+18:08:32.417[main]DEBUGio.netty.util.internal.PlatformDependent--Dio.netty.uninitializedArrayAllocationThreshold: -1
+18:08:32.420[main]DEBUGio.netty.util.internal.CleanerJava9-java.nio.ByteBuffer.cleaner(): available
+18:08:32.420[main]DEBUGio.netty.util.internal.PlatformDependent--Dio.netty.noPreferDirect: false
+18:08:32.443[main]DEBUGio.netty.util.internal.PlatformDependent-org.jctools-core.MpscChunkedArrayQueue: available
+18:08:32.501[main]DEBUGio.netty.util.internal.InternalThreadLocalMap--Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+18:08:32.501[main]DEBUGio.netty.util.internal.InternalThreadLocalMap--Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+18:08:32.606[main]DEBUGio.netty.handler.ssl.JdkSslContext-Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+18:08:32.606[main]DEBUGio.netty.handler.ssl.JdkSslContext-Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+18:08:32.653[main]DEBUGio.netty.channel.MultithreadEventLoopGroup--Dio.netty.eventLoopThreads: 8
+18:08:32.680[main]DEBUGio.netty.channel.nio.NioEventLoop--Dio.netty.noKeySetOptimization: false
+18:08:32.681[main]DEBUGio.netty.channel.nio.NioEventLoop--Dio.netty.selectorAutoRebuildThreshold: 512
+18:08:32.722[main]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4faa298
+18:08:32.724[main]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@a098d76
+18:08:32.725[main]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@40e37b06
+18:08:32.726[main]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@733aa9d8
+18:08:32.727[main]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6dcc40f5
+18:08:32.728[main]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2b680207
+18:08:32.729[main]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@70887727
+18:08:32.730[main]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@56da7487
+18:08:32.768[main]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.numHeapArenas: 8
+18:08:32.768[main]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.numDirectArenas: 8
+18:08:32.768[main]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.pageSize: 8192
+18:08:32.769[main]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.maxOrder: 9
+18:08:32.769[main]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.chunkSize: 4194304
+18:08:32.769[main]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.smallCacheSize: 256
+18:08:32.769[main]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.normalCacheSize: 64
+18:08:32.769[main]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.maxCachedBufferCapacity: 32768
+18:08:32.769[main]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.cacheTrimInterval: 8192
+18:08:32.769[main]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.cacheTrimIntervalMillis: 0
+18:08:32.769[main]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.useCacheForAllThreads: false
+18:08:32.770[main]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+18:08:32.787[main]DEBUGio.netty.buffer.ByteBufUtil--Dio.netty.allocator.type: pooled
+18:08:32.787[main]DEBUGio.netty.buffer.ByteBufUtil--Dio.netty.threadLocalDirectBufferSize: 0
+18:08:32.787[main]DEBUGio.netty.buffer.ByteBufUtil--Dio.netty.maxThreadLocalCharBufferSize: 16384
+18:08:34.838[Forwarding newSession on session null to remote]DEBUGio.netty.channel.DefaultChannelId--Dio.netty.processId: 480964 (auto-detected)
+18:08:34.845[Forwarding newSession on session null to remote]DEBUGio.netty.util.NetUtil--Djava.net.preferIPv4Stack: false
+18:08:34.845[Forwarding newSession on session null to remote]DEBUGio.netty.util.NetUtil--Djava.net.preferIPv6Addresses: false
+18:08:35.179[Forwarding newSession on session null to remote]DEBUGio.netty.util.NetUtilInitializations-Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+18:08:35.181[Forwarding newSession on session null to remote]DEBUGio.netty.util.NetUtil-Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+18:08:35.481[Forwarding newSession on session null to remote]DEBUGio.netty.channel.DefaultChannelId--Dio.netty.machineId: 60:d8:19:ff:fe:48:d7:8c (auto-detected)
+18:08:35.778[AsyncHttpClient-1-2]DEBUGio.netty.buffer.AbstractByteBuf--Dio.netty.buffer.checkAccessible: true
+18:08:35.779[AsyncHttpClient-1-2]DEBUGio.netty.buffer.AbstractByteBuf--Dio.netty.buffer.checkBounds: true
+18:08:35.779[AsyncHttpClient-1-2]DEBUGio.netty.util.ResourceLeakDetectorFactory-Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@22a03af0
+18:08:35.859[AsyncHttpClient-1-2]DEBUGio.netty.util.Recycler--Dio.netty.recycler.maxCapacityPerThread: 4096
+18:08:35.859[AsyncHttpClient-1-2]DEBUGio.netty.util.Recycler--Dio.netty.recycler.ratio: 8
+18:08:35.860[AsyncHttpClient-1-2]DEBUGio.netty.util.Recycler--Dio.netty.recycler.chunkSize: 32
+18:08:35.860[AsyncHttpClient-1-2]DEBUGio.netty.util.Recycler--Dio.netty.recycler.blocking: false
+18:08:38.405[AsyncHttpClient-1-2]DEBUGio.netty.handler.codec.compression.Brotli-brotli4j not in the classpath; Brotli support will be unavailable.
+18:08:41.388[main]DEBUGio.netty.util.internal.ThreadLocalRandom--Dio.netty.initialSeedUniquifier: 0xead0126d405db48c
+18:08:52.035[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+18:08:52.042[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:08:52.045[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+18:08:53.722[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+18:08:53.738[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:08:53.742[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:08:53.745[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:08:53.768[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:08:53.772[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:08:53.853[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:08:53.855[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:08:53.880[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:08:53.881[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:08:53.883[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:08:53.884[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:08:53.886[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:08:53.887[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+18:08:54.078[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+18:08:54.080[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Resolving type for handle themefd26doctype
+18:08:54.714[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Resolving type for handle stylesheet5d8bdoctype
+18:08:54.772[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Resolving type for handle ctstylesheet4257type
+18:08:54.827[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Resolving type for handle ctfonts6623type
+18:08:54.878[main]TRACEorg.apache.xmlbeans.impl.common.XBeanDebug-Resolving type for handle ctfont14d8type
