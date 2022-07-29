@@ -2,20 +2,20 @@
 <testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-29T10:54:25 IST" name="Suite" finished-at="2022-07-29T10:56:16 IST" duration-ms="110689">
+  <suite started-at="2022-07-29T12:02:23 IST" name="Suite" finished-at="2022-07-29T12:03:38 IST" duration-ms="74868">
     <groups>
     </groups>
-    <test started-at="2022-07-29T10:54:25 IST" name="Test1" finished-at="2022-07-29T10:56:16 IST" duration-ms="110689">
+    <test started-at="2022-07-29T12:02:23 IST" name="Test1" finished-at="2022-07-29T12:03:38 IST" duration-ms="74868">
       <class name="TestCase.RegisterTest">
-        <test-method is-config="true" signature="launch()[pri:0, instance:TestCase.RegisterTest@35432107]" started-at="2022-07-29T10:54:26 IST" name="launch" finished-at="2022-07-29T10:56:06 IST" duration-ms="100195" status="PASS">
+        <test-method is-config="true" signature="launch()[pri:0, instance:TestCase.RegisterTest@35432107]" started-at="2022-07-29T12:02:23 IST" name="launch" finished-at="2022-07-29T12:03:24 IST" duration-ms="60621" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method signature="addToWishList()[pri:0, instance:TestCase.RegisterTest@35432107]" started-at="2022-07-29T10:56:06 IST" name="addToWishList" finished-at="2022-07-29T10:56:12 IST" duration-ms="6274" status="PASS">
+        <test-method signature="addToWishList()[pri:0, instance:TestCase.RegisterTest@35432107]" started-at="2022-07-29T12:03:24 IST" name="addToWishList" finished-at="2022-07-29T12:03:37 IST" duration-ms="12997" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addToWishList -->
-        <test-method is-config="true" signature="teraDown()[pri:0, instance:TestCase.RegisterTest@35432107]" started-at="2022-07-29T10:56:12 IST" name="teraDown" finished-at="2022-07-29T10:56:16 IST" duration-ms="4087" status="PASS">
+        <test-method is-config="true" signature="teraDown()[pri:0, instance:TestCase.RegisterTest@35432107]" started-at="2022-07-29T12:03:37 IST" name="teraDown" finished-at="2022-07-29T12:03:38 IST" duration-ms="1114" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teraDown -->
