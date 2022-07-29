@@ -50,7 +50,7 @@ public class RegisterTest extends Base{
 	}
 	@AfterMethod
 	public void teraDown() {
-		driver.close();
+		driver.quit();
 	}
 
 }
